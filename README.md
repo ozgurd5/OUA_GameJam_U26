@@ -1,11 +1,8 @@
-# itch.io Link - Playable on Browser
-https://ozgurd5.itch.io/candy-academy
-
-# Youtube Trailer
-[![](https://img.youtube.com/vi/BTazQVmTSIw/0.jpg)](https://www.youtube.com/watch?v=BTazQVmTSIw) <br>
+# OUA_GameJam_U26 - Candy Academy
 https://www.youtube.com/watch?v=BTazQVmTSIw
 
-# OUA_GameJam_U26 - Candy Academy
+https://ozgurd5.itch.io/candy-academy
+
 Bengüsu Karpuzoğlu</br>
 Fatma Şahiner</br>
 Mustafa Emir Uyar</br>
